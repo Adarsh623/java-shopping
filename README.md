@@ -1,4 +1,4 @@
-# java-shopping application by adijaiswal
+# java-shopping 
 
 
 
