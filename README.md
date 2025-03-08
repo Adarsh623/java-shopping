@@ -2,7 +2,6 @@
 
 
 
-
 apt-get update
 apt-get install maven -y
 apt-get install openjdk-11-jre -y
